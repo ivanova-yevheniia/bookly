@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookly/static/css/main.041d6ad8.css",
+    "main.js": "/bookly/static/js/main.ca19cbb4.js",
+    "static/media/image-not-found.jpeg": "/bookly/static/media/image-not-found.0271c7aa840ab5eb00c4.jpeg",
+    "static/media/book.svg": "/bookly/static/media/book.1dcd4367446a78225838603ea77f2e55.svg",
+    "index.html": "/bookly/index.html",
+    "main.041d6ad8.css.map": "/bookly/static/css/main.041d6ad8.css.map",
+    "main.ca19cbb4.js.map": "/bookly/static/js/main.ca19cbb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041d6ad8.css",
+    "static/js/main.ca19cbb4.js"
+  ]
+}
